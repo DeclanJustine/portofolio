@@ -22,7 +22,7 @@ export default function ContactPage() {
             </p>
 
             <a
-              href="mailto:justinedeclans@email.com"
+              href="mailto:declanjustine@email.com"
               className="flex items-center gap-3 px-4 py-[14px] rounded-xl border border-[#1e1e1e] bg-[#141415] hover:bg-[#1a1a1b] hover:border-[#2a2a2a] transition-all duration-150 no-underline group"
             >
               <div className="w-[34px] h-[34px] rounded-lg flex items-center justify-center bg-[#0c1e2e] text-[#378ADD] text-[17px] shrink-0">
@@ -43,7 +43,7 @@ export default function ContactPage() {
               <div className="flex-1 min-w-0">
                 <p className="text-[11px] text-[#555] mb-0.5">Email</p>
                 <p className="text-[13px] font-medium text-[#d0d0d0] truncate">
-                  justinedeclans@email.com
+                  declanjustine@email.com
                 </p>
               </div>
               <svg
